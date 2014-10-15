@@ -1,43 +1,47 @@
 # MATLAB Fall 2014 – Research Plan (Template)
 
-> * Group Name: (be creative!)
+> * Group Name: Be creative!
 > * Group participants names: Mattmann Michael, Schira Riccardo
 > * Project Title: Trail formation
 
 ## General Introduction
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+We want to simulate the trajectories chosen from the peoples while walking on a grass meadow. 
+it's quite an important topic, because it helps planning streets, so that the road network is more efficient. We think it's very interesting because it has a lot in common whit all day life since we can find this trails on every park of a city.
+it's interesting also because it's not evident to solve since it depends on many factors that can not be controlled. 
+
 
 ## The Model
 
-(Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abtraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
+The most important variable it the ground structure, which includes the morphology depending on the position and the presence of tracks depending on time and position. 
+In addition there is the durability of tracks (regeneration of nature), attractiveness and visibility of a determined place. 
+We plan to measure the presence of tracks by adding all contributions of the people walking on that specific place and subtracting the regeneration ratio. Attractiveness depends on the presence of tracks, the visibility and the direction of the destination. 
+This model won't consider the social influence and the "force" acting between two peoples walking at the same time, but we think it's a good model because it involves most of the criteria needed to decide the trajectory.
 
 
 ## Fundamental Questions
 
-(At the end of the project you want to find the answer to these questions)
-(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
+How trajectories form?
+What happens if there is no trail yet?
+What happens when two trails cross? 
+What happens if we add another destination without tracks to that destination?
+Which track is going to disappear?
+How does morphology influence the final network?
 
 
 ## Expected Results
 
-(What are the answers to the above questions that you expect to find before starting your research?)
+We expect that at the beginning the direct trajectories are chosen, but as time passes this will change. At the moment we don't know how. 
 
 
 ## References 
 
-(Add the bibliographic references you intend to use)
-(Explain possible extension to the above models)
-(Code / Projects Reports of the previous year)
+Modelling Evolution of Human Trail Systems      Dirk Helbing 1997
+We plan to use the model proposed in this reference, but adding the ground morphology. It's also possible to add social behaviour and "forces" between peoples. 
 
 
 ## Research Methods
 
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
+This model is based on two dynamic differential equations. 
 
 
-## Other
-
-(mention datasets you are going to use)
