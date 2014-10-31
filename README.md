@@ -1,8 +1,8 @@
 # MATLAB Fall 2014 – Research Plan (Template)
 
-> * Group Name: Be creative!
-> * Group participants names: Mattmann Michael, Schira Riccardo
-> * Project Title: Trail formation
+ * Group Name: Be creative!
+ * Group participants names: Mattmann Michael, Schira Riccardo
+ * Project Title: Trail formation
 
 ## General Introduction
 
