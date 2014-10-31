@@ -21,10 +21,10 @@ This model won't consider the social influence and the "force" acting between tw
 
 ## Fundamental Questions
 
-How trajectories form?
-What is the final network of the most common sets of entrance / exit ?
-How does topology influence the final network?
-How would change over time the system of trails of a real park if the now existing "trails" will be no longer asphalted?
+* How trajectories form?
+* What is the final network of the most common sets of entrance / exit ?
+* How does topology influence the final network?
+* How would change over time the system of trails of a real park if the now existing "trails" will be no longer asphalted?
 
 
 ## Expected Results
