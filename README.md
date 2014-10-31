@@ -34,7 +34,7 @@ We expect that at the beginning the direct trajectories are chosen, but as time 
 
 ## References 
 
-Modelling Evolution of Human Trail Systems      Dirk Helbing 1997
+Modelling Evolution of Human Trail Systems  -  Dirk Helbing 1997. 
 We plan to use the model proposed in this reference, but adding the ground topology. It's also possible to add social behaviour and "forces" between peoples, but we are not going to do this.
 
 
