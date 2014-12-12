@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Abstract}{6}
+\contentsline {section}{\numberline {2}Individual contributions}{6}
+\contentsline {section}{\numberline {3}Introduction and Motivations}{7}
+\contentsline {subsection}{\numberline {3.1}Introduction}{7}
+\contentsline {subsection}{\numberline {3.2}Motivations}{7}
+\contentsline {subsection}{\numberline {3.3}Fundamental Questions}{7}
+\contentsline {subsection}{\numberline {3.4}Expected Results}{8}
+\contentsline {section}{\numberline {4}Description of the Model}{9}
+\contentsline {section}{\numberline {5}Implementation}{11}
+\contentsline {subsection}{\numberline {5.1}General}{11}
+\contentsline {subsection}{\numberline {5.2}Scripts}{11}
+\contentsline {subsection}{\numberline {5.3}Explanation of 'direction\_pend.m'}{12}
+\contentsline {section}{\numberline {6}Simulation Results and Discussion}{15}
+\contentsline {subsection}{\numberline {6.1}Idealized cases of trail formation}{15}
+\contentsline {subsubsection}{\numberline {6.1.1}Creation of simple geometries}{15}
+\contentsline {subsubsection}{\numberline {6.1.2}Trail formation with already existing trails}{17}
+\contentsline {subsubsection}{\numberline {6.1.3}Trail formation on a not flat ground}{17}
+\contentsline {subsection}{\numberline {6.2}Simulations on a real Park}{18}
+\contentsline {subsubsection}{\numberline {6.2.1}Green Park in London}{18}
+\contentsline {subsubsection}{\numberline {6.2.2}Joyce Kilmer Park in Manhattan}{20}
+\contentsline {section}{\numberline {7}Summary and Outlook}{24}
+\contentsline {section}{\numberline {8}References}{25}
+\contentsline {section}{\numberline {A}Code}{26}
+\contentsline {subsection}{\numberline {A.1}'start.m'}{26}
+\contentsline {subsection}{\numberline {A.2}'main.m'}{30}
+\contentsline {subsection}{\numberline {A.3}'change\_ground.m'}{32}
+\contentsline {subsection}{\numberline {A.4}'insert\_person\_1\_entrance\_1\_exit.m'}{32}
+\contentsline {subsection}{\numberline {A.5}'insert\_person\_2\_entrance\_2\_exit.m'}{32}
+\contentsline {subsection}{\numberline {A.6}'insert\_person\_3\_entrance\_3\_exit.m'}{32}
+\contentsline {subsection}{\numberline {A.7}'insert\_person\_4\_entrance\_4\_exit.m'}{33}
+\contentsline {subsection}{\numberline {A.8}'move\_person.m'}{34}
+\contentsline {subsection}{\numberline {A.9}'direction\_pend.m'}{35}
